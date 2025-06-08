@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Nema](https://github.com/Abhishek-Nema)
+- 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Nema?tab=repositories](https://github.com/Abhishek-Nema?tab=repositories)
 
 - 💬 Ask me about **JavaScript, CSS and HTML**
 
