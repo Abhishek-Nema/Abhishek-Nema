@@ -1,5 +1,5 @@
-<h1 align="center">Namaste ji 🙏, I'm Abhishek</h1>
-<h3 align="center">A passionate frontend developer from beautiful India</h3>
+<h1 align="center">Hey 👋, I'm Abhishek</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React.js**
 
